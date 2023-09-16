@@ -24,7 +24,6 @@
 
 > **[Cloud News]** is your passport to explore news from around the world through a cloud-based platform. Our innovative website allows you to effortlessly access and customize news content based on countries, giving you a comprehensive view of global events.
 
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
