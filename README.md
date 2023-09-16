@@ -20,6 +20,8 @@
 # [cryptoLens: Your Real-Time Crypto Companion 🚀] <a name="about-project"></a>
 [Live Demo](https://www.loom.com/share/009df7a5d7584174926d23c016589e3f?sid=92e517cf-7224-4440-9f74-bf0b526c0568)
 
+[View Website](https://cloudnews.netlify.app/)
+
 > **[Cloud News]** is your passport to explore news from around the world through a cloud-based platform. Our innovative website allows you to effortlessly access and customize news content based on countries, giving you a comprehensive view of global events.
 
 
