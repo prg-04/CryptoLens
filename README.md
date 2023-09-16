@@ -18,7 +18,7 @@
 - [📝 License](#license)
 
 # [cryptoLens: Your Real-Time Crypto Companion 🚀] <a name="about-project"></a>
-[Live Demo](https://www.loom.com/share/009df7a5d7584174926d23c016589e3f?sid=92e517cf-7224-4440-9f74-bf0b526c0568)
+[Live Demo](https://www.loom.com/share/dba796fcf943420da4ac5f604150c1da?sid=4d1c4ddb-0eac-4b8f-97f7-2e094d0f0847)
 
 [View Website](https://cloudnews.netlify.app/)
 
