@@ -18,7 +18,7 @@
 - [📝 License](#license)
 
 # [cryptoLens: Your Real-Time Crypto Companion 🚀] <a name="about-project"></a>
-[Live Demo](https://www.loom.com/share/dba796fcf943420da4ac5f604150c1da?sid=4d1c4ddb-0eac-4b8f-97f7-2e094d0f0847)
+[Video presentation link](https://www.loom.com/share/10534b2139b3487e9080ec259a54c3b7?sid=f6b686b7-c31d-4ece-a7f5-cec6c884492a)
 
 [View Website](https://cloudnews.netlify.app/)
 
@@ -182,7 +182,7 @@ If you like this project, you are most welcome to Contribute.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Nelson Sakwa on Behance for his awesome template
+I would like to express my sincere gratitude to Nelson Sakwa for his incredible template, which served as the foundation for this project. The original design idea by Nelson Sakwa, as showcased on Behance, played a pivotal role in shaping the creative direction of this endeavor.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
