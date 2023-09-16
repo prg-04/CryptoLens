@@ -17,7 +17,6 @@ const Login = () => {
 
   const emailRef = useRef();
   const passwdRef = useRef();
-
   const { login } = useAuth();
 
   const handleclick = () => {
